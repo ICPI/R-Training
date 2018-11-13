@@ -1,5 +1,5 @@
 ## ICPI R Training Series
-Download the zip file and go through the R training material for Sessions 1 & 2 where you can learn how to:
+Download the zip file and go through the R training material for Sessions 1-4 where you can learn how to:
 
 Session 1:
 - Navigate the RStudio interface
