@@ -21,7 +21,7 @@ Session 2:
 - Summarize data like pivot tables
 - Stack Datasets
 
-Session 3 (advanced data manipulation) : 
+Session 3 (Advanced Data Manipulation) : 
 - Review summarise
 - Review filter
 - Transpose wide to long 
