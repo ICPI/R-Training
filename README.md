@@ -20,3 +20,22 @@ Session 2:
 - Pipe (%>%)
 - Summarize data like pivot tables
 - Stack Datasets
+
+Session 3 (advanced data manipulation) : 
+- Review summarise
+- Review filter
+- Transpose wide to long 
+- Merge: left join
+- Merge: anti-join
+
+Session 4 (Data Visualization):
+- ggplot structure
+- bar graphs
+- line graphs
+- scatter plots
+- bubble graphs
+- density plot
+- violin graph
+- faceting
+- ggplot options
+- mapping with leaflet package
